@@ -23,12 +23,11 @@ import _QuickLook_SwiftUI
 import _StringProcessing
 import _SwiftConcurrencyShims
 import _WebKit_SwiftUI
-import os
 public struct BDPortalConfiguration {
   public static var customFontName: Swift.String?
 }
-public struct BDSupportSDK {
-  public static var applySystemFontSize: Swift.Bool
+public struct BolddeskSDK {
+  public static var appySystemFontSize: Swift.Bool
   #if compiler(>=5.3) && $NonescapableTypes
   public static func initialize(appId: Swift.String, brandURl: Swift.String, _ successCallback: ((Swift.String?) -> Swift.Void)? = nil, _ errorCallback: ((Swift.String?) -> Swift.Void)? = nil)
   #endif
@@ -56,7 +55,7 @@ public struct BDSupportSDK {
   public static func processRemoteNotification(userInfo: [Swift.AnyHashable : Any]) -> Swift.Bool
   public static func navigateToTicketList()
 }
-public struct BDSDKHome {
+public struct BolddeskSDKHome {
   public static func setHeaderLogo(logoURL: Swift.String)
   public static func setHomeDashboardContent(headerName: Swift.String = "", headerDescription: Swift.String = "", kbTitle: Swift.String = "", kbDescription: Swift.String = "", ticketTitle: Swift.String = "", ticketDescription: Swift.String = "", submitButtonText: Swift.String = "")
 }
