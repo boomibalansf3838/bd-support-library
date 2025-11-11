@@ -23,6 +23,7 @@ import _QuickLook_SwiftUI
 import _StringProcessing
 import _SwiftConcurrencyShims
 import _WebKit_SwiftUI
+import os
 public struct BDPortalConfiguration {
   public static var customFontName: Swift.String?
 }

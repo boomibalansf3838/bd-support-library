@@ -3503,6 +3503,13 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -3818,6 +3825,20 @@
             "mangledName": "$ss9EscapableP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "os",
+        "printedName": "os",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
       },
       {
         "kind": "Import",
@@ -6363,140 +6384,140 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 4305,
+      "offset": 4425,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 4335,
+      "offset": 4455,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 4848,
+      "offset": 4968,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 4878,
+      "offset": 4998,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 4910,
+      "offset": 5030,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 5458,
+      "offset": 5578,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 5488,
+      "offset": 5608,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 6063,
+      "offset": 6183,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 6094,
+      "offset": 6214,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 6129,
+      "offset": 6249,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 6159,
+      "offset": 6279,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 6194,
+      "offset": 6314,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 9252,
+      "offset": 9372,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 9282,
+      "offset": 9402,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 11078,
+      "offset": 11198,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 11108,
+      "offset": 11228,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 11143,
+      "offset": 11263,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 11537,
+      "offset": 11657,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 11567,
+      "offset": 11687,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CommonButtons.swift",
       "kind": "BooleanLiteral",
-      "offset": 11602,
+      "offset": 11722,
       "length": 5,
       "value": "false"
     },
@@ -6517,14 +6538,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/DialogAppBar.swift",
       "kind": "IntegerLiteral",
-      "offset": 1904,
+      "offset": 1954,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/DialogAppBar.swift",
       "kind": "BooleanLiteral",
-      "offset": 2609,
+      "offset": 2714,
       "length": 5,
       "value": "false"
     },
@@ -8316,2289 +8337,2275 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 579,
+      "offset": 592,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1388,
+      "offset": 1401,
       "length": 3,
       "value": "127"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1392,
+      "offset": 1405,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1404,
+      "offset": 1417,
       "length": 2,
       "value": "86"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1407,
+      "offset": 1420,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1418,
+      "offset": 1431,
       "length": 3,
       "value": "217"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1422,
+      "offset": 1435,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 1434,
+      "offset": 1447,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1467,
+      "offset": 1480,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1470,
+      "offset": 1483,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1482,
+      "offset": 1495,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1485,
+      "offset": 1498,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1496,
+      "offset": 1509,
       "length": 2,
       "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1499,
+      "offset": 1512,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 1511,
+      "offset": 1524,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1609,
+      "offset": 1622,
       "length": 3,
       "value": "127"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1613,
+      "offset": 1626,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1625,
+      "offset": 1638,
       "length": 2,
       "value": "86"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1628,
+      "offset": 1641,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1639,
+      "offset": 1652,
       "length": 3,
       "value": "217"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1643,
+      "offset": 1656,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 1655,
+      "offset": 1668,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1688,
+      "offset": 1701,
       "length": 3,
       "value": "142"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1692,
+      "offset": 1705,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1704,
+      "offset": 1717,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1708,
+      "offset": 1721,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1719,
+      "offset": 1732,
       "length": 3,
       "value": "248"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1723,
+      "offset": 1736,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 1735,
+      "offset": 1748,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1858,
+      "offset": 1871,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1862,
+      "offset": 1875,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1874,
+      "offset": 1887,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1878,
+      "offset": 1891,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1889,
+      "offset": 1902,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1893,
+      "offset": 1906,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 1905,
+      "offset": 1918,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1938,
+      "offset": 1951,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1941,
+      "offset": 1954,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1953,
+      "offset": 1966,
       "length": 2,
       "value": "27"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1956,
+      "offset": 1969,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1967,
+      "offset": 1980,
       "length": 2,
       "value": "38"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 1970,
+      "offset": 1983,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 1982,
+      "offset": 1995,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2112,
+      "offset": 2125,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2116,
+      "offset": 2129,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2128,
+      "offset": 2141,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2132,
+      "offset": 2145,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2143,
+      "offset": 2156,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2147,
+      "offset": 2160,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2159,
+      "offset": 2172,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2192,
+      "offset": 2205,
       "length": 3,
       "value": "225"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2196,
+      "offset": 2209,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2208,
+      "offset": 2221,
       "length": 3,
       "value": "225"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2212,
+      "offset": 2225,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2223,
+      "offset": 2236,
       "length": 3,
       "value": "225"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2227,
+      "offset": 2240,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2239,
+      "offset": 2252,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2346,
+      "offset": 2359,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2350,
+      "offset": 2363,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2362,
+      "offset": 2375,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2366,
+      "offset": 2379,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2377,
+      "offset": 2390,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2381,
+      "offset": 2394,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2393,
+      "offset": 2406,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2426,
+      "offset": 2439,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2429,
+      "offset": 2442,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2441,
+      "offset": 2454,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2444,
+      "offset": 2457,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2455,
+      "offset": 2468,
       "length": 2,
       "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2458,
+      "offset": 2471,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2470,
+      "offset": 2483,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2602,
+      "offset": 2615,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2606,
+      "offset": 2619,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2618,
+      "offset": 2631,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2622,
+      "offset": 2635,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2633,
+      "offset": 2646,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2637,
+      "offset": 2650,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2649,
+      "offset": 2662,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2682,
+      "offset": 2695,
       "length": 3,
       "value": "138"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2686,
+      "offset": 2699,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2698,
+      "offset": 2711,
       "length": 3,
       "value": "146"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2702,
+      "offset": 2715,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2713,
+      "offset": 2726,
       "length": 3,
       "value": "166"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2717,
+      "offset": 2730,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2729,
+      "offset": 2742,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2860,
+      "offset": 2873,
       "length": 3,
       "value": "234"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2864,
+      "offset": 2877,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2876,
+      "offset": 2889,
       "length": 3,
       "value": "236"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2880,
+      "offset": 2893,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2891,
+      "offset": 2904,
       "length": 3,
       "value": "240"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2895,
+      "offset": 2908,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2907,
+      "offset": 2920,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2940,
+      "offset": 2953,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2943,
+      "offset": 2956,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2955,
+      "offset": 2968,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2958,
+      "offset": 2971,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2969,
+      "offset": 2982,
       "length": 2,
       "value": "55"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 2972,
+      "offset": 2985,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 2984,
+      "offset": 2997,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3106,
+      "offset": 3119,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3109,
+      "offset": 3122,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3121,
+      "offset": 3134,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3124,
+      "offset": 3137,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3135,
+      "offset": 3148,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3138,
+      "offset": 3151,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 3150,
+      "offset": 3163,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3295,
+      "offset": 3308,
       "length": 3,
       "value": "217"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3299,
+      "offset": 3312,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3311,
+      "offset": 3324,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3314,
+      "offset": 3327,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3325,
+      "offset": 3338,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3328,
+      "offset": 3341,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 3340,
+      "offset": 3353,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3373,
+      "offset": 3386,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3377,
+      "offset": 3390,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3389,
+      "offset": 3402,
       "length": 3,
       "value": "105"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3393,
+      "offset": 3406,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3404,
+      "offset": 3417,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3408,
+      "offset": 3421,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 3420,
+      "offset": 3433,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3537,
+      "offset": 3550,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3540,
+      "offset": 3553,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3552,
+      "offset": 3565,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3555,
+      "offset": 3568,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3566,
+      "offset": 3579,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3569,
+      "offset": 3582,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 3581,
+      "offset": 3594,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3614,
+      "offset": 3627,
       "length": 3,
       "value": "245"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3618,
+      "offset": 3631,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3630,
+      "offset": 3643,
       "length": 3,
       "value": "245"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3634,
+      "offset": 3647,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3645,
+      "offset": 3658,
       "length": 3,
       "value": "246"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3649,
+      "offset": 3662,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 3661,
+      "offset": 3674,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3767,
+      "offset": 3780,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3770,
+      "offset": 3783,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3782,
+      "offset": 3795,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3785,
+      "offset": 3798,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3796,
+      "offset": 3809,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3799,
+      "offset": 3812,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 3811,
+      "offset": 3824,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3844,
+      "offset": 3857,
       "length": 3,
       "value": "206"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3848,
+      "offset": 3861,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3860,
+      "offset": 3873,
       "length": 3,
       "value": "207"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3864,
+      "offset": 3877,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3875,
+      "offset": 3888,
       "length": 3,
       "value": "210"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 3879,
+      "offset": 3892,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 3891,
+      "offset": 3904,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4015,
+      "offset": 4028,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4018,
+      "offset": 4031,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4030,
+      "offset": 4043,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4033,
+      "offset": 4046,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4044,
+      "offset": 4057,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4047,
+      "offset": 4060,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4059,
+      "offset": 4072,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4092,
+      "offset": 4105,
       "length": 3,
       "value": "206"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4096,
+      "offset": 4109,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4108,
+      "offset": 4121,
       "length": 3,
       "value": "207"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4112,
+      "offset": 4125,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4123,
+      "offset": 4136,
       "length": 3,
       "value": "210"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4127,
+      "offset": 4140,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4139,
+      "offset": 4152,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4270,
+      "offset": 4283,
       "length": 3,
       "value": "208"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4274,
+      "offset": 4287,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4286,
+      "offset": 4299,
       "length": 3,
       "value": "213"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4290,
+      "offset": 4303,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4301,
+      "offset": 4314,
       "length": 3,
       "value": "221"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4305,
+      "offset": 4318,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4317,
+      "offset": 4330,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4350,
+      "offset": 4363,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4353,
+      "offset": 4366,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4365,
+      "offset": 4378,
       "length": 2,
       "value": "75"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4368,
+      "offset": 4381,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4379,
+      "offset": 4392,
       "length": 2,
       "value": "85"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4382,
+      "offset": 4395,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4394,
+      "offset": 4407,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4529,
+      "offset": 4542,
       "length": 3,
       "value": "208"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4533,
+      "offset": 4546,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4545,
+      "offset": 4558,
       "length": 3,
       "value": "213"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4549,
+      "offset": 4562,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4560,
+      "offset": 4573,
       "length": 3,
       "value": "221"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4564,
+      "offset": 4577,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4576,
+      "offset": 4589,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4609,
+      "offset": 4622,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4613,
+      "offset": 4626,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4625,
+      "offset": 4638,
       "length": 3,
       "value": "124"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4629,
+      "offset": 4642,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4640,
+      "offset": 4653,
       "length": 3,
       "value": "138"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4644,
+      "offset": 4657,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4656,
+      "offset": 4669,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4786,
+      "offset": 4799,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4790,
+      "offset": 4803,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4802,
+      "offset": 4815,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4806,
+      "offset": 4819,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4817,
+      "offset": 4830,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4821,
+      "offset": 4834,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4833,
+      "offset": 4846,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4866,
+      "offset": 4879,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4870,
+      "offset": 4883,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4882,
+      "offset": 4895,
       "length": 3,
       "value": "155"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4886,
+      "offset": 4899,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4897,
+      "offset": 4910,
       "length": 3,
       "value": "170"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 4901,
+      "offset": 4914,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 4913,
+      "offset": 4926,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5036,
+      "offset": 5049,
       "length": 2,
       "value": "71"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5039,
+      "offset": 5052,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5051,
+      "offset": 5064,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5054,
+      "offset": 5067,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5065,
+      "offset": 5078,
       "length": 3,
       "value": "103"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5069,
+      "offset": 5082,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5081,
+      "offset": 5094,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5114,
+      "offset": 5127,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5117,
+      "offset": 5130,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5129,
+      "offset": 5142,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5133,
+      "offset": 5146,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5144,
+      "offset": 5157,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5148,
+      "offset": 5161,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5160,
+      "offset": 5173,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5299,
+      "offset": 5312,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5303,
+      "offset": 5316,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5315,
+      "offset": 5328,
       "length": 3,
       "value": "244"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5319,
+      "offset": 5332,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5330,
+      "offset": 5343,
       "length": 3,
       "value": "247"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5334,
+      "offset": 5347,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5346,
+      "offset": 5359,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5379,
+      "offset": 5392,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5382,
+      "offset": 5395,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5394,
+      "offset": 5407,
       "length": 2,
       "value": "27"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5397,
+      "offset": 5410,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5408,
+      "offset": 5421,
       "length": 2,
       "value": "38"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5411,
+      "offset": 5424,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5423,
+      "offset": 5436,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5571,
+      "offset": 5584,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5575,
+      "offset": 5588,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5587,
+      "offset": 5600,
       "length": 3,
       "value": "244"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5591,
+      "offset": 5604,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5602,
+      "offset": 5615,
       "length": 3,
       "value": "247"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5606,
+      "offset": 5619,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5618,
+      "offset": 5631,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5651,
+      "offset": 5664,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5654,
+      "offset": 5667,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5666,
+      "offset": 5679,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5669,
+      "offset": 5682,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5680,
+      "offset": 5693,
       "length": 2,
       "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5683,
+      "offset": 5696,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5695,
+      "offset": 5708,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5827,
+      "offset": 5840,
       "length": 2,
       "value": "71"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5830,
+      "offset": 5843,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5842,
+      "offset": 5855,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5845,
+      "offset": 5858,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5856,
+      "offset": 5869,
       "length": 3,
       "value": "103"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5860,
+      "offset": 5873,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5872,
+      "offset": 5885,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5905,
+      "offset": 5918,
       "length": 3,
       "value": "148"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5909,
+      "offset": 5922,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5921,
+      "offset": 5934,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5925,
+      "offset": 5938,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5936,
+      "offset": 5949,
       "length": 3,
       "value": "156"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 5940,
+      "offset": 5953,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 5952,
+      "offset": 5965,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6078,
+      "offset": 6091,
       "length": 3,
       "value": "122"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6082,
+      "offset": 6095,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6094,
+      "offset": 6107,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6097,
+      "offset": 6110,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6108,
+      "offset": 6121,
       "length": 3,
       "value": "248"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6112,
+      "offset": 6125,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 6124,
+      "offset": 6137,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6157,
+      "offset": 6170,
       "length": 3,
       "value": "155"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6161,
+      "offset": 6174,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6173,
+      "offset": 6186,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6177,
+      "offset": 6190,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6188,
+      "offset": 6201,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6192,
+      "offset": 6205,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 6204,
+      "offset": 6217,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6324,
+      "offset": 6337,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6327,
+      "offset": 6340,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6339,
+      "offset": 6352,
       "length": 3,
       "value": "178"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6343,
+      "offset": 6356,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6354,
+      "offset": 6367,
       "length": 3,
       "value": "106"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6358,
+      "offset": 6371,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 6370,
+      "offset": 6383,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6403,
+      "offset": 6416,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6406,
+      "offset": 6419,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6418,
+      "offset": 6431,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6422,
+      "offset": 6435,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6433,
+      "offset": 6446,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6437,
+      "offset": 6450,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 6449,
+      "offset": 6462,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6574,
+      "offset": 6587,
       "length": 3,
       "value": "181"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6578,
+      "offset": 6591,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6590,
+      "offset": 6603,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6593,
+      "offset": 6606,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6604,
+      "offset": 6617,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6607,
+      "offset": 6620,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 6619,
+      "offset": 6632,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6652,
+      "offset": 6665,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6656,
+      "offset": 6669,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6668,
+      "offset": 6681,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6671,
+      "offset": 6684,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6682,
+      "offset": 6695,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6685,
+      "offset": 6698,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 6697,
+      "offset": 6710,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6965,
+      "offset": 6978,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6968,
+      "offset": 6981,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6980,
+      "offset": 6993,
       "length": 3,
       "value": "126"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6984,
+      "offset": 6997,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6995,
+      "offset": 7008,
       "length": 2,
       "value": "63"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 6998,
+      "offset": 7011,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 7010,
+      "offset": 7023,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7043,
+      "offset": 7056,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7046,
+      "offset": 7059,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7058,
+      "offset": 7071,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7062,
+      "offset": 7075,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7073,
+      "offset": 7086,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7076,
+      "offset": 7089,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 7088,
+      "offset": 7101,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7212,
+      "offset": 7225,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7215,
+      "offset": 7228,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7227,
+      "offset": 7240,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7230,
+      "offset": 7243,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7241,
+      "offset": 7254,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7244,
+      "offset": 7257,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 7256,
+      "offset": 7269,
       "length": 4,
       "value": "0.06"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7290,
+      "offset": 7303,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7292,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7304,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7306,
+      "offset": 7305,
       "length": 3,
       "value": "255"
     },
@@ -10618,85 +10625,85 @@
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7330,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7332,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 7331,
+      "offset": 7344,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7448,
+      "offset": 7461,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7451,
+      "offset": 7464,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7463,
+      "offset": 7476,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7466,
+      "offset": 7479,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7477,
+      "offset": 7490,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7480,
+      "offset": 7493,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 7492,
+      "offset": 7505,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7525,
+      "offset": 7538,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7527,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7539,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7541,
+      "offset": 7540,
       "length": 3,
       "value": "255"
     },
@@ -10716,890 +10723,904 @@
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7565,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7567,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 7566,
+      "offset": 7579,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7680,
+      "offset": 7693,
       "length": 3,
       "value": "249"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7684,
+      "offset": 7697,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7696,
+      "offset": 7709,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7700,
+      "offset": 7713,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7711,
+      "offset": 7724,
       "length": 3,
       "value": "251"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7715,
+      "offset": 7728,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7727,
+      "offset": 7740,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7758,
+      "offset": 7771,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7761,
+      "offset": 7774,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7773,
+      "offset": 7786,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7776,
+      "offset": 7789,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7787,
+      "offset": 7800,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7790,
+      "offset": 7803,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7802,
+      "offset": 7815,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7932,
+      "offset": 7945,
       "length": 3,
       "value": "249"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7936,
+      "offset": 7949,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7948,
+      "offset": 7961,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7952,
+      "offset": 7965,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7963,
+      "offset": 7976,
       "length": 3,
       "value": "251"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7967,
+      "offset": 7980,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 7979,
+      "offset": 7992,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8010,
+      "offset": 8023,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8013,
+      "offset": 8026,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8025,
+      "offset": 8038,
       "length": 2,
       "value": "27"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8028,
+      "offset": 8041,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8039,
+      "offset": 8052,
       "length": 2,
       "value": "38"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8042,
+      "offset": 8055,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8054,
+      "offset": 8067,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8179,
+      "offset": 8192,
       "length": 3,
       "value": "245"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8183,
+      "offset": 8196,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8195,
+      "offset": 8208,
       "length": 3,
       "value": "246"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8199,
+      "offset": 8212,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8210,
+      "offset": 8223,
       "length": 3,
       "value": "251"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8214,
+      "offset": 8227,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8226,
+      "offset": 8239,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8257,
+      "offset": 8270,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8260,
+      "offset": 8273,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8272,
+      "offset": 8285,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8275,
+      "offset": 8288,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8286,
+      "offset": 8299,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8289,
+      "offset": 8302,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8301,
+      "offset": 8314,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8437,
+      "offset": 8450,
       "length": 3,
       "value": "217"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8441,
+      "offset": 8454,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8453,
+      "offset": 8466,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8456,
+      "offset": 8469,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8467,
+      "offset": 8480,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8470,
+      "offset": 8483,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 8482,
+      "offset": 8495,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8515,
+      "offset": 8528,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8519,
+      "offset": 8532,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8531,
+      "offset": 8544,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8534,
+      "offset": 8547,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8545,
+      "offset": 8558,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8548,
+      "offset": 8561,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 8560,
+      "offset": 8573,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8689,
+      "offset": 8702,
       "length": 3,
       "value": "152"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8693,
+      "offset": 8706,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8705,
+      "offset": 8718,
       "length": 3,
       "value": "162"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8709,
+      "offset": 8722,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8720,
+      "offset": 8733,
       "length": 3,
       "value": "179"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8724,
+      "offset": 8737,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 8736,
+      "offset": 8749,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8769,
+      "offset": 8782,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8773,
+      "offset": 8786,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8785,
+      "offset": 8798,
       "length": 3,
       "value": "130"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8789,
+      "offset": 8802,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8800,
+      "offset": 8813,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8804,
+      "offset": 8817,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 8816,
+      "offset": 8829,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8948,
+      "offset": 8961,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8951,
+      "offset": 8964,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8963,
+      "offset": 8976,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8966,
+      "offset": 8979,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8977,
+      "offset": 8990,
       "length": 2,
       "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 8980,
+      "offset": 8993,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 8992,
+      "offset": 9005,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9025,
+      "offset": 9038,
       "length": 2,
       "value": "31"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9028,
+      "offset": 9041,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9040,
+      "offset": 9053,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9043,
+      "offset": 9056,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9054,
+      "offset": 9067,
       "length": 2,
       "value": "47"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9057,
+      "offset": 9070,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 9069,
+      "offset": 9082,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9188,
+      "offset": 9201,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9192,
+      "offset": 9205,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9204,
+      "offset": 9217,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9208,
+      "offset": 9221,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9219,
+      "offset": 9232,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9223,
+      "offset": 9236,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 9235,
+      "offset": 9248,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9268,
+      "offset": 9281,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9271,
+      "offset": 9284,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9283,
+      "offset": 9296,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9286,
+      "offset": 9299,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9297,
+      "offset": 9310,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9300,
+      "offset": 9313,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 9312,
+      "offset": 9325,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9453,
+      "offset": 9466,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9457,
+      "offset": 9470,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9469,
+      "offset": 9482,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9473,
+      "offset": 9486,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9484,
+      "offset": 9497,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9488,
+      "offset": 9501,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 9500,
+      "offset": 9513,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9533,
+      "offset": 9546,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9536,
+      "offset": 9549,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9548,
+      "offset": 9561,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9551,
+      "offset": 9564,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9562,
+      "offset": 9575,
       "length": 2,
       "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9565,
+      "offset": 9578,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 9577,
+      "offset": 9590,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9681,
+      "offset": 9694,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9685,
+      "offset": 9698,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9697,
+      "offset": 9710,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9701,
+      "offset": 9714,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9712,
+      "offset": 9725,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9716,
+      "offset": 9729,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 9728,
+      "offset": 9741,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9761,
+      "offset": 9774,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9765,
+      "offset": 9778,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9777,
+      "offset": 9790,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9781,
+      "offset": 9794,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9792,
+      "offset": 9805,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 9796,
+      "offset": 9809,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 9808,
+      "offset": 9821,
       "length": 3,
       "value": "1.0"
     },
@@ -15120,23 +15141,44 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
       "kind": "StringLiteral",
-      "offset": 52,
+      "offset": 80,
       "length": 14,
       "value": "\"✅ RESPONSE\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
       "kind": "StringLiteral",
-      "offset": 87,
+      "offset": 112,
       "length": 11,
       "value": "\"❌ ERROR\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
+      "kind": "StringLiteral",
+      "offset": 140,
+      "length": 13,
+      "value": "\"ℹ️ INFO\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 151,
-      "length": 5,
-      "value": "false"
+      "offset": 212,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
+      "kind": "StringLiteral",
+      "offset": 277,
+      "length": 35,
+      "value": "\"com.syncfusion.BoldDeskSupportSDK\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
+      "kind": "StringLiteral",
+      "offset": 332,
+      "length": 9,
+      "value": "\"Network\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/KnowledgeBase\/ArticlesListView.swift",
@@ -15624,77 +15666,77 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 44380,
+      "offset": 44573,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 44473,
+      "offset": 44666,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 44799,
+      "offset": 44992,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 58827,
+      "offset": 59020,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 58922,
+      "offset": 59115,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 58928,
+      "offset": 59121,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 59784,
+      "offset": 59977,
       "length": 10,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 60341,
+      "offset": 60534,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 60441,
+      "offset": 60634,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 61242,
+      "offset": 61435,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 62405,
+      "offset": 62598,
       "length": 5,
       "value": "false"
     },
