@@ -184,13 +184,13 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "BolddeskSDK",
-        "printedName": "BolddeskSDK",
+        "name": "BDSupportSDK",
+        "printedName": "BDSupportSDK",
         "children": [
           {
             "kind": "Var",
-            "name": "appySystemFontSize",
-            "printedName": "appySystemFontSize",
+            "name": "applySystemFontSize",
+            "printedName": "applySystemFontSize",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -200,8 +200,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvpZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvpZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvpZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvpZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -224,8 +224,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvgZ",
-                "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvgZ",
+                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvgZ",
+                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvgZ",
                 "moduleName": "BoldDeskSupportSDK",
                 "static": true,
                 "implicit": true,
@@ -249,8 +249,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvsZ",
-                "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvsZ",
+                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvsZ",
+                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvsZ",
                 "moduleName": "BoldDeskSupportSDK",
                 "static": true,
                 "implicit": true,
@@ -268,8 +268,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvMZ",
-                "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V18appySystemFontSizeSbvMZ",
+                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvMZ",
+                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V19applySystemFontSizeSbvMZ",
                 "moduleName": "BoldDeskSupportSDK",
                 "static": true,
                 "implicit": true,
@@ -371,8 +371,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V10initialize5appId8brandURl__ySS_SSySSSgcSgAHtFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V10initialize5appId8brandURl__ySS_SSySSSgcSgAHtFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V10initialize5appId8brandURl__ySS_SSySSSgcSgAHtFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V10initialize5appId8brandURl__ySS_SSySSSgcSgAHtFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -392,8 +392,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V6logoutyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V6logoutyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V6logoutyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V6logoutyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -414,8 +414,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V14isTokenExpiredSbyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V14isTokenExpiredSbyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V14isTokenExpiredSbyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V14isTokenExpiredSbyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -511,8 +511,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V17loginWithJWTToken8jwtToken__ySS_ySSSgcSgAGtFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V17loginWithJWTToken8jwtToken__ySS_ySSSgcSgAGtFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V17loginWithJWTToken8jwtToken__ySS_ySSSgcSgAGtFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V17loginWithJWTToken8jwtToken__ySS_ySSSgcSgAGtFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -532,8 +532,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V5setupyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V5setupyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5setupyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5setupyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -554,8 +554,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvpZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvpZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvpZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvpZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -578,8 +578,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvgZ",
-                "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvgZ",
+                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvgZ",
+                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvgZ",
                 "moduleName": "BoldDeskSupportSDK",
                 "static": true,
                 "implicit": true,
@@ -603,8 +603,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvsZ",
-                "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvsZ",
+                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvsZ",
+                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvsZ",
                 "moduleName": "BoldDeskSupportSDK",
                 "static": true,
                 "implicit": true,
@@ -622,8 +622,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvMZ",
-                "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V5ThemeAA8SDKThemeOvMZ",
+                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvMZ",
+                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvMZ",
                 "moduleName": "BoldDeskSupportSDK",
                 "static": true,
                 "implicit": true,
@@ -649,8 +649,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V17setPreferredThemeyyAA8SDKThemeOFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V17setPreferredThemeyyAA8SDKThemeOFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V17setPreferredThemeyyAA8SDKThemeOFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V17setPreferredThemeyyAA8SDKThemeOFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -670,8 +670,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V5resetyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V5resetyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5resetyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5resetyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -705,8 +705,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V10applyTheme11accentColor07primaryI0ySS_SStFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V10applyTheme11accentColor07primaryI0ySS_SStFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V10applyTheme11accentColor07primaryI0ySS_SStFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V10applyTheme11accentColor07primaryI0ySS_SStFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -726,8 +726,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V13validateTokenyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V13validateTokenyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V13validateTokenyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V13validateTokenyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -747,8 +747,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V6showKByyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V6showKByyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V6showKByyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V6showKByyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -768,8 +768,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V16showCreateTicketyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V16showCreateTicketyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V16showCreateTicketyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V16showCreateTicketyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -789,8 +789,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V17showHomeDashboardyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V17showHomeDashboardyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V17showHomeDashboardyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V17showHomeDashboardyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -816,8 +816,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V16enableAttachmentyySbFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V16enableAttachmentyySbFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V16enableAttachmentyySbFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V16enableAttachmentyySbFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -837,8 +837,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V13enableLoggingyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V13enableLoggingyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V13enableLoggingyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V13enableLoggingyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -864,8 +864,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V22enablePushNotification8fcmTokenySS_tFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V22enablePushNotification8fcmTokenySS_tFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V22enablePushNotification8fcmTokenySS_tFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V22enablePushNotification8fcmTokenySS_tFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -905,8 +905,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V25processRemoteNotification8userInfoSbSDys11AnyHashableVypG_tFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V25processRemoteNotification8userInfoSbSDys11AnyHashableVypG_tFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V25processRemoteNotification8userInfoSbSDys11AnyHashableVypG_tFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V25processRemoteNotification8userInfoSbSDys11AnyHashableVypG_tFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -927,8 +927,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK08BolddeskD0V20navigateToTicketListyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V20navigateToTicketListyyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V20navigateToTicketListyyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V20navigateToTicketListyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -938,8 +938,8 @@
           }
         ],
         "declKind": "Struct",
-        "usr": "s:18BoldDeskSupportSDK08BolddeskD0V",
-        "mangledName": "$s18BoldDeskSupportSDK08BolddeskD0V",
+        "usr": "s:18BoldDeskSupportSDK09BDSupportD0V",
+        "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V",
         "moduleName": "BoldDeskSupportSDK",
         "declAttributes": [
           "AccessControl"
@@ -963,8 +963,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "BolddeskSDKHome",
-        "printedName": "BolddeskSDKHome",
+        "name": "BDSDKHome",
+        "printedName": "BDSDKHome",
         "children": [
           {
             "kind": "Function",
@@ -984,8 +984,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK15BolddeskSDKHomeV13setHeaderLogo7logoURLySS_tFZ",
-            "mangledName": "$s18BoldDeskSupportSDK15BolddeskSDKHomeV13setHeaderLogo7logoURLySS_tFZ",
+            "usr": "s:18BoldDeskSupportSDK9BDSDKHomeV13setHeaderLogo7logoURLySS_tFZ",
+            "mangledName": "$s18BoldDeskSupportSDK9BDSDKHomeV13setHeaderLogo7logoURLySS_tFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -1054,8 +1054,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK15BolddeskSDKHomeV23setHomeDashboardContent10headerName0K11Description7kbTitle0nM006ticketO00pM016submitButtonTextySS_S6StFZ",
-            "mangledName": "$s18BoldDeskSupportSDK15BolddeskSDKHomeV23setHomeDashboardContent10headerName0K11Description7kbTitle0nM006ticketO00pM016submitButtonTextySS_S6StFZ",
+            "usr": "s:18BoldDeskSupportSDK9BDSDKHomeV23setHomeDashboardContent10headerName0J11Description7kbTitle0mL006ticketN00oL016submitButtonTextySS_S6StFZ",
+            "mangledName": "$s18BoldDeskSupportSDK9BDSDKHomeV23setHomeDashboardContent10headerName0J11Description7kbTitle0mL006ticketN00oL016submitButtonTextySS_S6StFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -1065,8 +1065,8 @@
           }
         ],
         "declKind": "Struct",
-        "usr": "s:18BoldDeskSupportSDK15BolddeskSDKHomeV",
-        "mangledName": "$s18BoldDeskSupportSDK15BolddeskSDKHomeV",
+        "usr": "s:18BoldDeskSupportSDK9BDSDKHomeV",
+        "mangledName": "$s18BoldDeskSupportSDK9BDSDKHomeV",
         "moduleName": "BoldDeskSupportSDK",
         "declAttributes": [
           "AccessControl"
@@ -3828,6 +3828,20 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "os",
+        "printedName": "os",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -4900,98 +4914,98 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 191,
+      "offset": 192,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 240,
+      "offset": 242,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8133,
+      "offset": 8137,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8168,
+      "offset": 8172,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 14238,
+      "offset": 14244,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 14270,
+      "offset": 14276,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 20023,
+      "offset": 20029,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDKHome.swift",
       "kind": "StringLiteral",
-      "offset": 549,
+      "offset": 543,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDKHome.swift",
       "kind": "StringLiteral",
-      "offset": 581,
+      "offset": 575,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDKHome.swift",
       "kind": "StringLiteral",
-      "offset": 603,
+      "offset": 597,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDKHome.swift",
       "kind": "StringLiteral",
-      "offset": 631,
+      "offset": 625,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDKHome.swift",
       "kind": "StringLiteral",
-      "offset": 657,
+      "offset": 651,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDKHome.swift",
       "kind": "StringLiteral",
-      "offset": 689,
+      "offset": 683,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDKHome.swift",
       "kind": "StringLiteral",
-      "offset": 720,
+      "offset": 714,
       "length": 2,
       "value": "\"\""
     },
@@ -15127,23 +15141,44 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
       "kind": "StringLiteral",
-      "offset": 52,
+      "offset": 80,
       "length": 14,
       "value": "\"✅ RESPONSE\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
       "kind": "StringLiteral",
-      "offset": 87,
+      "offset": 112,
       "length": 11,
       "value": "\"❌ ERROR\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
+      "kind": "StringLiteral",
+      "offset": 140,
+      "length": 13,
+      "value": "\"ℹ️ INFO\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 151,
-      "length": 5,
-      "value": "false"
+      "offset": 212,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
+      "kind": "StringLiteral",
+      "offset": 277,
+      "length": 35,
+      "value": "\"com.syncfusion.BoldDeskSupportSDK\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/NetworkLog.swift",
+      "kind": "StringLiteral",
+      "offset": 332,
+      "length": 9,
+      "value": "\"Network\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/KnowledgeBase\/ArticlesListView.swift",
@@ -15295,7 +15330,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/HelpCenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 8873,
+      "offset": 8825,
       "length": 2,
       "value": "12"
     },
@@ -15778,14 +15813,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/ViewModel\/AppInfoViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1121,
+      "offset": 1122,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/ViewModel\/AppInfoViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3150,
+      "offset": 3151,
       "length": 5,
       "value": "false"
     },
