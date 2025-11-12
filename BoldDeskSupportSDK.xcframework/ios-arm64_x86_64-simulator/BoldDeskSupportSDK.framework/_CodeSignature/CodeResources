@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		8tX+pU4kHsumYq6xcqUHmFuFGX4=
+		PwVCky4pUp8qAY8oRJQ0cGxGOLE=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		o5koieeQjD+rZlzhD+oL1PBn/kM=
+		7SSZuHnJ95V2gBHVRCDRvw7pr9w=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		8tX+pU4kHsumYq6xcqUHmFuFGX4=
+		PwVCky4pUp8qAY8oRJQ0cGxGOLE=
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z2+osolPAwwk5hCbhc2KBBhyTQo=
+		22yqzbNUarCN8gFjiHQqk8Qgpsg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -84,7 +84,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/c20cpBjwDdED9ANAhg14D0CAJY=
+			7b2GmkUIqb/G8Xw2BYV7y+sTUHY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -138,7 +138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/ElEXX8hK6sKTpCiiu+Lta3KZSfJK8vw900D28nx/Jo=
+			Gnz2nNUDfKk+9cskHvLDGRWxLZtJuIJaQb3xlkH9vBU=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -166,14 +166,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IPJ1vU0BacYe5KirsO0OcJdhDNGce3SCHUFX4ztIQX4=
+			4l7EGwVva5B9+nxdOSiQS7WovaRXKc+C2pizHGZ1zAo=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/ElEXX8hK6sKTpCiiu+Lta3KZSfJK8vw900D28nx/Jo=
+			Gnz2nNUDfKk+9cskHvLDGRWxLZtJuIJaQb3xlkH9vBU=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -201,7 +201,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0QF5uRb4xZdQF7DxRuWBIX+/6RYT8ju/mK5y9+UnQ6U=
+			IlnXx2z1p6P0pJXz4HiNRsmNTzvV+MaA2KfdzpP84ZA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -222,7 +222,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tzXMXda1Yp6pj924WR18Nry3EXi//2BWd8g26H0gZV0=
+			MDMxlAxnkLps8Jez0zGYCf/idg7YERLQM2AXMmDDWt8=
 			</data>
 			<key>optional</key>
 			<true/>
