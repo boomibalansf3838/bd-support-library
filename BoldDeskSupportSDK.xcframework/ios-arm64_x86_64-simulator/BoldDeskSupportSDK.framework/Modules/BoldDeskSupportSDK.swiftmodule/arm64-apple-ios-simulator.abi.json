@@ -382,6 +382,27 @@
           },
           {
             "kind": "Function",
+            "name": "clearallLocalData",
+            "printedName": "clearallLocalData()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V17clearallLocalDatayyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V17clearallLocalDatayyFZ",
+            "moduleName": "BoldDeskSupportSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "logout",
             "printedName": "logout()",
             "children": [
@@ -403,8 +424,8 @@
           },
           {
             "kind": "Function",
-            "name": "isTokenExpired",
-            "printedName": "isTokenExpired()",
+            "name": "isLoggedIn",
+            "printedName": "isLoggedIn()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -414,8 +435,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V14isTokenExpiredSbyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V14isTokenExpiredSbyFZ",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V10isLoggedInSbyFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V10isLoggedInSbyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -522,117 +543,6 @@
           },
           {
             "kind": "Function",
-            "name": "setup",
-            "printedName": "setup()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5setupyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5setupyyFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "Theme",
-            "printedName": "Theme",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "SDKTheme",
-                "printedName": "BoldDeskSupportSDK.SDKTheme",
-                "usr": "s:18BoldDeskSupportSDK8SDKThemeO"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvpZ",
-            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvpZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "SDKTheme",
-                    "printedName": "BoldDeskSupportSDK.SDKTheme",
-                    "usr": "s:18BoldDeskSupportSDK8SDKThemeO"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvgZ",
-                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvgZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "SDKTheme",
-                    "printedName": "BoldDeskSupportSDK.SDKTheme",
-                    "usr": "s:18BoldDeskSupportSDK8SDKThemeO"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvsZ",
-                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvsZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvMZ",
-                "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5ThemeAA8SDKThemeOvMZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
             "name": "setPreferredTheme",
             "printedName": "setPreferredTheme(_:)",
             "children": [
@@ -651,27 +561,6 @@
             "declKind": "Func",
             "usr": "s:18BoldDeskSupportSDK09BDSupportD0V17setPreferredThemeyyAA8SDKThemeOFZ",
             "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V17setPreferredThemeyyAA8SDKThemeOFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "reset",
-            "printedName": "reset()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V5resetyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V5resetyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -707,27 +596,6 @@
             "declKind": "Func",
             "usr": "s:18BoldDeskSupportSDK09BDSupportD0V10applyTheme11accentColor07primaryI0ySS_SStFZ",
             "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V10applyTheme11accentColor07primaryI0ySS_SStFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "validateToken",
-            "printedName": "validateToken()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V13validateTokenyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V13validateTokenyyFZ",
             "moduleName": "BoldDeskSupportSDK",
             "static": true,
             "declAttributes": [
@@ -800,33 +668,6 @@
           },
           {
             "kind": "Function",
-            "name": "enableAttachment",
-            "printedName": "enableAttachment(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V16enableAttachmentyySbFZ",
-            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V16enableAttachmentyySbFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "enableLogging",
             "printedName": "enableLogging()",
             "children": [
@@ -875,6 +716,47 @@
           },
           {
             "kind": "Function",
+            "name": "isFromMobileSDK",
+            "printedName": "isFromMobileSDK(userInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.AnyHashable : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V012isFromMobileD08userInfoSbSDys11AnyHashableVypG_tFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V012isFromMobileD08userInfoSbSDys11AnyHashableVypG_tFZ",
+            "moduleName": "BoldDeskSupportSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "processRemoteNotification",
             "printedName": "processRemoteNotification(userInfo:)",
             "children": [
@@ -912,27 +794,6 @@
             "declAttributes": [
               "AccessControl",
               "DiscardableResult"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "navigateToTicketList",
-            "printedName": "navigateToTicketList()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V20navigateToTicketListyyFZ",
-            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V20navigateToTicketListyyFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -1507,868 +1368,6 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BoldDeskSupportSDK"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "CustomTagsFieldDelegate",
-        "printedName": "CustomTagsFieldDelegate",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "tagsFieldDidChange",
-            "printedName": "tagsFieldDidChange(_:tags:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CustomTagsField",
-                "printedName": "BoldDeskSupportSDK.CustomTagsField",
-                "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Array",
-                "printedName": "[Swift.String]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sa"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK23CustomTagsFieldDelegateP04tagsG9DidChange_0I0yAA0efG0C_SaySSGtF",
-            "mangledName": "$s18BoldDeskSupportSDK23CustomTagsFieldDelegateP04tagsG9DidChange_0I0yAA0efG0C_SaySSGtF",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.CustomTagsFieldDelegate>",
-            "sugared_genericSig": "<Self where Self : BoldDeskSupportSDK.CustomTagsFieldDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "tagsFieldDidBeginEditing",
-            "printedName": "tagsFieldDidBeginEditing(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CustomTagsField",
-                "printedName": "BoldDeskSupportSDK.CustomTagsField",
-                "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK23CustomTagsFieldDelegateP04tagsG15DidBeginEditingyyAA0efG0CF",
-            "mangledName": "$s18BoldDeskSupportSDK23CustomTagsFieldDelegateP04tagsG15DidBeginEditingyyAA0efG0CF",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.CustomTagsFieldDelegate>",
-            "sugared_genericSig": "<Self where Self : BoldDeskSupportSDK.CustomTagsFieldDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "tagsFieldDidEndEditing",
-            "printedName": "tagsFieldDidEndEditing(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CustomTagsField",
-                "printedName": "BoldDeskSupportSDK.CustomTagsField",
-                "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK23CustomTagsFieldDelegateP04tagsG13DidEndEditingyyAA0efG0CF",
-            "mangledName": "$s18BoldDeskSupportSDK23CustomTagsFieldDelegateP04tagsG13DidEndEditingyyAA0efG0CF",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.CustomTagsFieldDelegate>",
-            "sugared_genericSig": "<Self where Self : BoldDeskSupportSDK.CustomTagsFieldDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Protocol",
-        "usr": "s:18BoldDeskSupportSDK23CustomTagsFieldDelegateP",
-        "mangledName": "$s18BoldDeskSupportSDK23CustomTagsFieldDelegateP",
-        "moduleName": "BoldDeskSupportSDK",
-        "genericSig": "<τ_0_0 : AnyObject>",
-        "sugared_genericSig": "<Self : AnyObject>",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "CustomTagsField",
-        "printedName": "CustomTagsField",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "placeholder",
-            "printedName": "placeholder",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvp",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvp",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvg",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvg",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvs",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvs",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvM",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC11placeholderSSvM",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "isDisabled",
-            "printedName": "isDisabled",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvp",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvp",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvg",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvg",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvs",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvs",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvM",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC10isDisabledSbvM",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "tags",
-            "printedName": "tags",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Array",
-                "printedName": "[Swift.String]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sa"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC4tagsSaySSGvp",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC4tagsSaySSGvp",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "SetterAccess",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Array",
-                    "printedName": "[Swift.String]",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sa"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC4tagsSaySSGvg",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC4tagsSaySSGvg",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "delegate",
-            "printedName": "delegate",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "WeakStorage",
-                "printedName": "(any BoldDeskSupportSDK.CustomTagsFieldDelegate)?"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvp",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvp",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "ReferenceOwnership",
-              "AccessControl"
-            ],
-            "ownership": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(any BoldDeskSupportSDK.CustomTagsFieldDelegate)?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "CustomTagsFieldDelegate",
-                        "printedName": "any BoldDeskSupportSDK.CustomTagsFieldDelegate",
-                        "usr": "s:18BoldDeskSupportSDK23CustomTagsFieldDelegateP"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvg",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvg",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(any BoldDeskSupportSDK.CustomTagsFieldDelegate)?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "CustomTagsFieldDelegate",
-                        "printedName": "any BoldDeskSupportSDK.CustomTagsFieldDelegate",
-                        "usr": "s:18BoldDeskSupportSDK23CustomTagsFieldDelegateP"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvs",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvs",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvM",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC8delegateAA0efG8Delegate_pSgvM",
-                "moduleName": "BoldDeskSupportSDK",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CustomTagsField",
-                "printedName": "BoldDeskSupportSDK.CustomTagsField",
-                "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField(im)initWithFrame:",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC5frameACSo6CGRectV_tcfc",
-            "moduleName": "BoldDeskSupportSDK",
-            "overriding": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "layoutSubviews",
-            "printedName": "layoutSubviews()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField(im)layoutSubviews",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC14layoutSubviewsyyF",
-            "moduleName": "BoldDeskSupportSDK",
-            "overriding": true,
-            "objc_name": "layoutSubviews",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "intrinsicContentSize",
-            "printedName": "intrinsicContentSize",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGSize",
-                "printedName": "CoreFoundation.CGSize",
-                "usr": "c:@S@CGSize"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField(py)intrinsicContentSize",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC20intrinsicContentSizeSo6CGSizeVvp",
-            "moduleName": "BoldDeskSupportSDK",
-            "overriding": true,
-            "objc_name": "intrinsicContentSize",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGSize",
-                    "printedName": "CoreFoundation.CGSize",
-                    "usr": "c:@S@CGSize"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField(im)intrinsicContentSize",
-                "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC20intrinsicContentSizeSo6CGSizeVvg",
-                "moduleName": "BoldDeskSupportSDK",
-                "overriding": true,
-                "objc_name": "intrinsicContentSize",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "addTag",
-            "printedName": "addTag(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC6addTagyySSF",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC6addTagyySSF",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "removeTag",
-            "printedName": "removeTag(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK15CustomTagsFieldC9removeTagyySSF",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC9removeTagyySSF",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "textFieldDidBeginEditing",
-            "printedName": "textFieldDidBeginEditing(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UITextField",
-                "printedName": "UIKit.UITextField",
-                "usr": "c:objc(cs)UITextField"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@BoldDeskSupportSDK@objc(cs)CustomTagsField(im)textFieldDidBeginEditing:",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC04textG15DidBeginEditingyySo06UITextG0CF",
-            "moduleName": "BoldDeskSupportSDK",
-            "objc_name": "textFieldDidBeginEditing:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "textFieldDidEndEditing",
-            "printedName": "textFieldDidEndEditing(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UITextField",
-                "printedName": "UIKit.UITextField",
-                "usr": "c:objc(cs)UITextField"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@BoldDeskSupportSDK@objc(cs)CustomTagsField(im)textFieldDidEndEditing:",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC04textG13DidEndEditingyySo06UITextG0CF",
-            "moduleName": "BoldDeskSupportSDK",
-            "objc_name": "textFieldDidEndEditing:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "textFieldShouldReturn",
-            "printedName": "textFieldShouldReturn(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UITextField",
-                "printedName": "UIKit.UITextField",
-                "usr": "c:objc(cs)UITextField"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@BoldDeskSupportSDK@objc(cs)CustomTagsField(im)textFieldShouldReturn:",
-            "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC04textG12ShouldReturnySbSo06UITextG0CF",
-            "moduleName": "BoldDeskSupportSDK",
-            "objc_name": "textFieldShouldReturn:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@BoldDeskSupportSDK@objc(cs)CustomTagsField",
-        "mangledName": "$s18BoldDeskSupportSDK15CustomTagsFieldC",
-        "moduleName": "BoldDeskSupportSDK",
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "RawDocComment",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "hasMissingDesignatedInitializers": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SendableMetatype",
-            "printedName": "SendableMetatype",
-            "usr": "s:s16SendableMetatypeP",
-            "mangledName": "$ss16SendableMetatypeP"
-          }
-        ]
       },
       {
         "kind": "Import",
@@ -2951,356 +1950,6 @@
       },
       {
         "kind": "Import",
-        "name": "WebKit",
-        "printedName": "WebKit",
-        "declKind": "Import",
-        "moduleName": "BoldDeskSupportSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BoldDeskSupportSDK"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "WarmUpable",
-        "printedName": "WarmUpable",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "warmUp",
-            "printedName": "warmUp()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK10WarmUpableP6warmUpyyF",
-            "mangledName": "$s18BoldDeskSupportSDK10WarmUpableP6warmUpyyF",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-            "sugared_genericSig": "<Self where Self : BoldDeskSupportSDK.WarmUpable>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Protocol",
-        "usr": "s:18BoldDeskSupportSDK10WarmUpableP",
-        "mangledName": "$s18BoldDeskSupportSDK10WarmUpableP",
-        "moduleName": "BoldDeskSupportSDK",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "WarmUper",
-        "printedName": "WarmUper",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "numberOfWamedUpObjects",
-            "printedName": "numberOfWamedUpObjects",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivp",
-            "mangledName": "$s18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivp",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivg",
-                "mangledName": "$s18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivg",
-                "moduleName": "BoldDeskSupportSDK",
-                "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-                "sugared_genericSig": "<Object where Object : BoldDeskSupportSDK.WarmUpable>",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivs",
-                "mangledName": "$s18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivs",
-                "moduleName": "BoldDeskSupportSDK",
-                "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-                "sugared_genericSig": "<Object where Object : BoldDeskSupportSDK.WarmUpable>",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivM",
-                "mangledName": "$s18BoldDeskSupportSDK8WarmUperC22numberOfWamedUpObjectsSivM",
-                "moduleName": "BoldDeskSupportSDK",
-                "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-                "sugared_genericSig": "<Object where Object : BoldDeskSupportSDK.WarmUpable>",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(creationClosure:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "WarmUper",
-                "printedName": "BoldDeskSupportSDK.WarmUper<τ_0_0>",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "GenericTypeParam",
-                    "printedName": "τ_0_0"
-                  }
-                ],
-                "usr": "s:18BoldDeskSupportSDK8WarmUperC"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "() -> τ_0_0",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "GenericTypeParam",
-                    "printedName": "τ_0_0"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:18BoldDeskSupportSDK8WarmUperC15creationClosureACyxGxyc_tcfc",
-            "mangledName": "$s18BoldDeskSupportSDK8WarmUperC15creationClosureACyxGxyc_tcfc",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-            "sugared_genericSig": "<Object where Object : BoldDeskSupportSDK.WarmUpable>",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "prepare",
-            "printedName": "prepare()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK8WarmUperC7prepareyyF",
-            "mangledName": "$s18BoldDeskSupportSDK8WarmUperC7prepareyyF",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-            "sugared_genericSig": "<Object where Object : BoldDeskSupportSDK.WarmUpable>",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "dequeue",
-            "printedName": "dequeue()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "GenericTypeParam",
-                "printedName": "τ_0_0"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK8WarmUperC7dequeuexyF",
-            "mangledName": "$s18BoldDeskSupportSDK8WarmUperC7dequeuexyF",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-            "sugared_genericSig": "<Object where Object : BoldDeskSupportSDK.WarmUpable>",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "shared",
-            "printedName": "shared",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "WarmUper",
-                "printedName": "BoldDeskSupportSDK.WarmUper<WebKit.WKWebView>",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WKWebView",
-                    "printedName": "WebKit.WKWebView",
-                    "usr": "c:objc(cs)WKWebView"
-                  }
-                ],
-                "usr": "s:18BoldDeskSupportSDK8WarmUperC"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK8WarmUperCAASo9WKWebViewCRszrlE6sharedACyAEGvpZ",
-            "mangledName": "$s18BoldDeskSupportSDK8WarmUperCAASo9WKWebViewCRszrlE6sharedACyAEGvpZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage"
-            ],
-            "isFromExtension": true,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WarmUper",
-                    "printedName": "BoldDeskSupportSDK.WarmUper<WebKit.WKWebView>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "WKWebView",
-                        "printedName": "WebKit.WKWebView",
-                        "usr": "c:objc(cs)WKWebView"
-                      }
-                    ],
-                    "usr": "s:18BoldDeskSupportSDK8WarmUperC"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK8WarmUperCAASo9WKWebViewCRszrlE6sharedACyAEGvgZ",
-                "mangledName": "$s18BoldDeskSupportSDK8WarmUperCAASo9WKWebViewCRszrlE6sharedACyAEGvgZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "genericSig": "<τ_0_0 where τ_0_0 == WebKit.WKWebView>",
-                "sugared_genericSig": "<Object where Object == WebKit.WKWebView>",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "isFromExtension": true,
-                "accessorKind": "get"
-              }
-            ]
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:18BoldDeskSupportSDK8WarmUperC",
-        "mangledName": "$s18BoldDeskSupportSDK8WarmUperC",
-        "moduleName": "BoldDeskSupportSDK",
-        "genericSig": "<τ_0_0 where τ_0_0 : BoldDeskSupportSDK.WarmUpable>",
-        "sugared_genericSig": "<Object where Object : BoldDeskSupportSDK.WarmUpable>",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -3561,78 +2210,6 @@
         "moduleName": "BoldDeskSupportSDK"
       },
       {
-        "kind": "TypeDecl",
-        "name": "BuildConfig",
-        "printedName": "BuildConfig",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "isDebug",
-            "printedName": "isDebug",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK11BuildConfigV7isDebugSbvpZ",
-            "mangledName": "$s18BoldDeskSupportSDK11BuildConfigV7isDebugSbvpZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK11BuildConfigV7isDebugSbvgZ",
-                "mangledName": "$s18BoldDeskSupportSDK11BuildConfigV7isDebugSbvgZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "accessorKind": "get"
-              }
-            ]
-          }
-        ],
-        "declKind": "Struct",
-        "usr": "s:18BoldDeskSupportSDK11BuildConfigV",
-        "mangledName": "$s18BoldDeskSupportSDK11BuildConfigV",
-        "moduleName": "BoldDeskSupportSDK",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
-      },
-      {
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
@@ -3673,158 +2250,6 @@
         "printedName": "CoreText",
         "declKind": "Import",
         "moduleName": "BoldDeskSupportSDK"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "ResourceManager",
-        "printedName": "ResourceManager",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "frameworkBundle",
-            "printedName": "frameworkBundle",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bundle",
-                "printedName": "Foundation.Bundle",
-                "usr": "c:objc(cs)NSBundle"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK15ResourceManagerO15frameworkBundleSo8NSBundleCvpZ",
-            "mangledName": "$s18BoldDeskSupportSDK15ResourceManagerO15frameworkBundleSo8NSBundleCvpZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK15ResourceManagerO15frameworkBundleSo8NSBundleCvgZ",
-                "mangledName": "$s18BoldDeskSupportSDK15ResourceManagerO15frameworkBundleSo8NSBundleCvgZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "registerFonts",
-            "printedName": "registerFonts(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Array",
-                "printedName": "[Swift.String]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sa"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK15ResourceManagerO13registerFontsyySaySSGFZ",
-            "mangledName": "$s18BoldDeskSupportSDK15ResourceManagerO13registerFontsyySaySSGFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "localized",
-            "printedName": "localized(_:value:comment:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "hasDefaultArg": true,
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "hasDefaultArg": true,
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK15ResourceManagerO9localized_5value7commentS2S_S2StFZ",
-            "mangledName": "$s18BoldDeskSupportSDK15ResourceManagerO9localized_5value7commentS2S_S2StFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:18BoldDeskSupportSDK15ResourceManagerO",
-        "mangledName": "$s18BoldDeskSupportSDK15ResourceManagerO",
-        "moduleName": "BoldDeskSupportSDK",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
       },
       {
         "kind": "Import",
@@ -3993,368 +2418,6 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BoldDeskSupportSDK"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "FramePreferenceKey",
-        "printedName": "FramePreferenceKey",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "defaultValue",
-            "printedName": "defaultValue",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvpZ",
-            "mangledName": "$s18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvpZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGRect",
-                    "printedName": "CoreFoundation.CGRect",
-                    "usr": "c:@S@CGRect"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvgZ",
-                "mangledName": "$s18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvgZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGRect",
-                    "printedName": "CoreFoundation.CGRect",
-                    "usr": "c:@S@CGRect"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvsZ",
-                "mangledName": "$s18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvsZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvMZ",
-                "mangledName": "$s18BoldDeskSupportSDK18FramePreferenceKeyV12defaultValueSo6CGRectVvMZ",
-                "moduleName": "BoldDeskSupportSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "reduce",
-            "printedName": "reduce(value:nextValue:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "paramValueOwnership": "InOut",
-                "usr": "c:@S@CGRect"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "() -> CoreFoundation.CGRect",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGRect",
-                    "printedName": "CoreFoundation.CGRect",
-                    "usr": "c:@S@CGRect"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "typeAttributes": [
-                  "noescape"
-                ]
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:18BoldDeskSupportSDK18FramePreferenceKeyV6reduce5value9nextValueySo6CGRectVz_AHyXEtFZ",
-            "mangledName": "$s18BoldDeskSupportSDK18FramePreferenceKeyV6reduce5value9nextValueySo6CGRectVz_AHyXEtFZ",
-            "moduleName": "BoldDeskSupportSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Struct",
-        "usr": "s:18BoldDeskSupportSDK18FramePreferenceKeyV",
-        "mangledName": "$s18BoldDeskSupportSDK18FramePreferenceKeyV",
-        "moduleName": "BoldDeskSupportSDK",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "PreferenceKey",
-            "printedName": "PreferenceKey",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "Value",
-                "printedName": "Value",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGRect",
-                    "printedName": "CoreFoundation.CGRect",
-                    "usr": "c:@S@CGRect"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:7SwiftUI13PreferenceKeyP",
-            "mangledName": "$s7SwiftUI13PreferenceKeyP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "FrameReader",
-        "printedName": "FrameReader",
-        "children": [
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coordinateSpace:onChange:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FrameReader",
-                "printedName": "BoldDeskSupportSDK.FrameReader",
-                "usr": "s:18BoldDeskSupportSDK11FrameReaderV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CoordinateSpace",
-                "printedName": "SwiftUI.CoordinateSpace",
-                "usr": "s:7SwiftUI15CoordinateSpaceO"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(CoreFoundation.CGRect) -> ()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGRect",
-                    "printedName": "CoreFoundation.CGRect",
-                    "usr": "c:@S@CGRect"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:18BoldDeskSupportSDK11FrameReaderV15coordinateSpace8onChangeAC7SwiftUI010CoordinateH0O_ySo6CGRectVctcfc",
-            "mangledName": "$s18BoldDeskSupportSDK11FrameReaderV15coordinateSpace8onChangeAC7SwiftUI010CoordinateH0O_ySo6CGRectVctcfc",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Var",
-            "name": "body",
-            "printedName": "body",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "OpaqueTypeArchetype",
-                "printedName": "some SwiftUI.View",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "View",
-                    "printedName": "SwiftUI.View",
-                    "usr": "s:7SwiftUI4ViewP"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:18BoldDeskSupportSDK11FrameReaderV4bodyQrvp",
-            "mangledName": "$s18BoldDeskSupportSDK11FrameReaderV4bodyQrvp",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OpaqueTypeArchetype",
-                    "printedName": "some SwiftUI.View",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "View",
-                        "printedName": "SwiftUI.View",
-                        "usr": "s:7SwiftUI4ViewP"
-                      }
-                    ]
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:18BoldDeskSupportSDK11FrameReaderV4bodyQrvg",
-                "mangledName": "$s18BoldDeskSupportSDK11FrameReaderV4bodyQrvg",
-                "moduleName": "BoldDeskSupportSDK",
-                "accessorKind": "get"
-              }
-            ]
-          }
-        ],
-        "declKind": "Struct",
-        "usr": "s:18BoldDeskSupportSDK11FrameReaderV",
-        "mangledName": "$s18BoldDeskSupportSDK11FrameReaderV",
-        "moduleName": "BoldDeskSupportSDK",
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "View",
-            "printedName": "View",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "Body",
-                "printedName": "Body",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OpaqueTypeArchetype",
-                    "printedName": "some SwiftUI.View",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "View",
-                        "printedName": "SwiftUI.View",
-                        "usr": "s:7SwiftUI4ViewP"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "usr": "s:7SwiftUI4ViewP",
-            "mangledName": "$s7SwiftUI4ViewP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
       },
       {
         "kind": "Import",
@@ -4649,263 +2712,6 @@
         "printedName": "DeveloperToolsSupport",
         "declKind": "Import",
         "moduleName": "BoldDeskSupportSDK"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "View",
-        "printedName": "View",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "readingFrame",
-            "printedName": "readingFrame(coordinateSpace:onChange:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "OpaqueTypeArchetype",
-                "printedName": "some SwiftUI.View",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "View",
-                    "printedName": "SwiftUI.View",
-                    "usr": "s:7SwiftUI4ViewP"
-                  }
-                ]
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CoordinateSpace",
-                "printedName": "SwiftUI.CoordinateSpace",
-                "hasDefaultArg": true,
-                "usr": "s:7SwiftUI15CoordinateSpaceO"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(CoreFoundation.CGRect) -> ()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGRect",
-                    "printedName": "CoreFoundation.CGRect",
-                    "usr": "c:@S@CGRect"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SwiftUI4ViewP18BoldDeskSupportSDKE12readingFrame15coordinateSpace8onChangeQrAA010CoordinateK0O_ySo6CGRectVctF",
-            "mangledName": "$s7SwiftUI4ViewP18BoldDeskSupportSDKE12readingFrame15coordinateSpace8onChangeQrAA010CoordinateK0O_ySo6CGRectVctF",
-            "moduleName": "BoldDeskSupportSDK",
-            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
-            "sugared_genericSig": "<Self where Self : SwiftUI.View>",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Protocol",
-        "usr": "s:7SwiftUI4ViewP",
-        "mangledName": "$s7SwiftUI4ViewP",
-        "moduleName": "SwiftUICore",
-        "genericSig": "<τ_0_0.Body : SwiftUI.View>",
-        "sugared_genericSig": "<Self.Body : SwiftUI.View>",
-        "intro_Macosx": "10.15",
-        "intro_iOS": "13.0",
-        "intro_tvOS": "13.0",
-        "intro_watchOS": "6.0",
-        "declAttributes": [
-          "Preconcurrency",
-          "TypeEraser",
-          "TypeEraser",
-          "OriginallyDefinedIn",
-          "OriginallyDefinedIn",
-          "OriginallyDefinedIn",
-          "OriginallyDefinedIn",
-          "Available",
-          "Available",
-          "Available",
-          "Available",
-          "Custom"
-        ],
-        "isExternal": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "WKWebView",
-        "printedName": "WKWebView",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "warmUp",
-            "printedName": "warmUp()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:So9WKWebViewC18BoldDeskSupportSDKE6warmUpyyF",
-            "mangledName": "$sSo9WKWebViewC18BoldDeskSupportSDKE6warmUpyyF",
-            "moduleName": "BoldDeskSupportSDK",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:objc(cs)WKWebView",
-        "moduleName": "WebKit",
-        "isOpen": true,
-        "intro_iOS": "8.0",
-        "objc_name": "WKWebView",
-        "declAttributes": [
-          "Preconcurrency",
-          "Available",
-          "ObjC",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SendableMetatype",
-            "printedName": "SendableMetatype",
-            "usr": "s:s16SendableMetatypeP",
-            "mangledName": "$ss16SendableMetatypeP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "WarmUpable",
-            "printedName": "WarmUpable",
-            "usr": "s:18BoldDeskSupportSDK10WarmUpableP",
-            "mangledName": "$s18BoldDeskSupportSDK10WarmUpableP"
-          }
-        ]
       }
     ],
     "json_format_version": 8
@@ -4928,28 +2734,28 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8137,
+      "offset": 8500,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8172,
+      "offset": 8535,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 14244,
+      "offset": 15191,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 14276,
+      "offset": 15223,
       "length": 5,
       "value": "false"
     },
@@ -6076,112 +3882,112 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "StringLiteral",
-      "offset": 6857,
+      "offset": 7542,
       "length": 4,
       "value": "\"CC\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6889,
+      "offset": 7574,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "StringLiteral",
-      "offset": 9147,
+      "offset": 9821,
       "length": 10,
       "value": "\"Enter CC\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9256,
+      "offset": 9923,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "Array",
-      "offset": 9419,
+      "offset": 10079,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "Array",
-      "offset": 9655,
+      "offset": 10308,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9697,
+      "offset": 10350,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9738,
+      "offset": 10391,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9777,
+      "offset": 10430,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9823,
+      "offset": 10476,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9861,
+      "offset": 10514,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9908,
+      "offset": 10561,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13457,
+      "offset": 14996,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13588,
+      "offset": 15127,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13667,
+      "offset": 15206,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Common\/CCTextFieldView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13885,
+      "offset": 15424,
       "length": 1,
       "value": "1"
     },
@@ -7934,20 +5740,6 @@
       "offset": 496,
       "length": 3,
       "value": "5.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/HTML Render\/WarmUpable.swift",
-      "kind": "Array",
-      "offset": 217,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/HTML Render\/WarmUpable.swift",
-      "kind": "IntegerLiteral",
-      "offset": 265,
-      "length": 1,
-      "value": "5"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Model\/APIResponseModel.swift",
@@ -11618,6 +9410,202 @@
       "value": "1.0"
     },
     {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9943,
+      "length": 3,
+      "value": "249"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9947,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9959,
+      "length": 3,
+      "value": "250"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9963,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9974,
+      "length": 3,
+      "value": "251"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9978,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 9990,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10023,
+      "length": 2,
+      "value": "23"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10026,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10038,
+      "length": 2,
+      "value": "27"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10041,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10052,
+      "length": 2,
+      "value": "37"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10055,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 10067,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10180,
+      "length": 2,
+      "value": "55"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10183,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10195,
+      "length": 2,
+      "value": "64"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10198,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10209,
+      "length": 2,
+      "value": "83"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10212,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 10224,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10257,
+      "length": 3,
+      "value": "206"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10261,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10273,
+      "length": 3,
+      "value": "207"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10277,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10288,
+      "length": 3,
+      "value": "210"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10292,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 10304,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/Errors\/ErrorLogs.swift",
       "kind": "StringLiteral",
       "offset": 141,
@@ -15120,14 +13108,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/LocalizationManager.swift",
       "kind": "StringLiteral",
-      "offset": 1187,
+      "offset": 1159,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/Util\/LocalizationManager.swift",
       "kind": "StringLiteral",
-      "offset": 1209,
+      "offset": 1181,
       "length": 2,
       "value": "\"\""
     },
@@ -15806,14 +13794,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/ViewModel\/AppInfoViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1122,
+      "offset": 1123,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/ViewModel\/AppInfoViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3151,
+      "offset": 3152,
       "length": 5,
       "value": "false"
     },

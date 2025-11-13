@@ -32,65 +32,26 @@ public struct BDSupportSDK {
   #if compiler(>=5.3) && $NonescapableTypes
   public static func initialize(appId: Swift.String, brandURl: Swift.String, _ successCallback: ((Swift.String?) -> Swift.Void)? = nil, _ errorCallback: ((Swift.String?) -> Swift.Void)? = nil)
   #endif
+  public static func clearallLocalData()
   public static func logout()
-  public static func isTokenExpired() -> Swift.Bool
+  public static func isLoggedIn() -> Swift.Bool
   #if compiler(>=5.3) && $NonescapableTypes
   public static func loginWithJWTToken(jwtToken: Swift.String, _ successCallback: ((Swift.String?) -> Swift.Void)? = nil, _ errorCallback: ((Swift.String?) -> Swift.Void)? = nil)
   #endif
-  public static func setup()
-  public static var Theme: BoldDeskSupportSDK.SDKTheme {
-    get
-    set
-  }
   public static func setPreferredTheme(_ theme: BoldDeskSupportSDK.SDKTheme)
-  public static func reset()
   public static func applyTheme(accentColor: Swift.String = "", primaryColor: Swift.String = "")
-  public static func validateToken()
   public static func showKB()
   public static func showCreateTicket()
   public static func showHomeDashboard()
-  public static func enableAttachment(_ isEnable: Swift.Bool)
   public static func enableLogging()
   public static func enablePushNotification(fcmToken: Swift.String)
+  public static func isFromMobileSDK(userInfo: [Swift.AnyHashable : Any]) -> Swift.Bool
   @discardableResult
   public static func processRemoteNotification(userInfo: [Swift.AnyHashable : Any]) -> Swift.Bool
-  public static func navigateToTicketList()
 }
 public struct BDSDKHome {
   public static func setHeaderLogo(logoURL: Swift.String)
   public static func setHomeDashboardContent(headerName: Swift.String = "", headerDescription: Swift.String = "", kbTitle: Swift.String = "", kbDescription: Swift.String = "", ticketTitle: Swift.String = "", ticketDescription: Swift.String = "", submitButtonText: Swift.String = "")
-}
-public protocol CustomTagsFieldDelegate : AnyObject {
-  func tagsFieldDidChange(_ tagsField: BoldDeskSupportSDK.CustomTagsField, tags: [Swift.String])
-  func tagsFieldDidBeginEditing(_ tagsField: BoldDeskSupportSDK.CustomTagsField)
-  func tagsFieldDidEndEditing(_ tagsField: BoldDeskSupportSDK.CustomTagsField)
-}
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class CustomTagsField : UIKit.UIView {
-  @_Concurrency.MainActor @preconcurrency public var placeholder: Swift.String {
-    get
-    set
-  }
-  @_Concurrency.MainActor @preconcurrency public var isDisabled: Swift.Bool {
-    get
-    set
-  }
-  @_Concurrency.MainActor @preconcurrency public var tags: [Swift.String] {
-    get
-  }
-  @_Concurrency.MainActor @preconcurrency weak public var delegate: (any BoldDeskSupportSDK.CustomTagsFieldDelegate)?
-  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
-  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func layoutSubviews()
-  @_Concurrency.MainActor @preconcurrency @objc override dynamic public var intrinsicContentSize: CoreFoundation.CGSize {
-    @objc get
-  }
-  @_Concurrency.MainActor @preconcurrency public func addTag(_ text: Swift.String)
-  @_Concurrency.MainActor @preconcurrency public func removeTag(_ text: Swift.String)
-  @objc deinit
-}
-extension BoldDeskSupportSDK.CustomTagsField : UIKit.UITextFieldDelegate {
-  @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidBeginEditing(_ textField: UIKit.UITextField)
-  @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
-  @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldShouldReturn(_ textField: UIKit.UITextField) -> Swift.Bool
 }
 public enum SDKTheme {
   case light
@@ -102,58 +63,9 @@ public enum SDKTheme {
     get
   }
 }
-public protocol WarmUpable {
-  func warmUp()
-}
-public class WarmUper<Object> where Object : BoldDeskSupportSDK.WarmUpable {
-  public var numberOfWamedUpObjects: Swift.Int {
-    get
-    set
-  }
-  public init(creationClosure: @escaping () -> Object)
-  public func prepare()
-  public func dequeue() -> Object
-  @objc deinit
-}
-extension WebKit.WKWebView : BoldDeskSupportSDK.WarmUpable {
-  @_Concurrency.MainActor @preconcurrency public func warmUp()
-}
-public typealias WKWebViewWarmUper = BoldDeskSupportSDK.WarmUper<WebKit.WKWebView>
-extension BoldDeskSupportSDK.WarmUper where Object == WebKit.WKWebView {
-  public static let shared: BoldDeskSupportSDK.WKWebViewWarmUper
-}
-
-public struct BuildConfig {
-  public static var isDebug: Swift.Bool {
-    get
-  }
-}
-public enum ResourceManager {
-  public static var frameworkBundle: Foundation.Bundle {
-    get
-  }
-  public static func registerFonts(_ fontFileNames: [Swift.String])
-  public static func localized(_ key: Swift.String, value: Swift.String = "", comment: Swift.String = "") -> Swift.String
-}
 
 
 
-public struct FramePreferenceKey : SwiftUICore.PreferenceKey {
-  public static var defaultValue: CoreFoundation.CGRect
-  public static func reduce(value: inout CoreFoundation.CGRect, nextValue: () -> CoreFoundation.CGRect)
-  public typealias Value = CoreFoundation.CGRect
-}
-@_Concurrency.MainActor @preconcurrency public struct FrameReader : SwiftUICore.View {
-  @_Concurrency.MainActor @preconcurrency public init(coordinateSpace: SwiftUICore.CoordinateSpace, onChange: @escaping (_ frame: CoreFoundation.CGRect) -> Swift.Void)
-  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
-    get
-  }
-  public typealias Body = @_opaqueReturnTypeOf("$s18BoldDeskSupportSDK11FrameReaderV4bodyQrvp", 0) __
-}
-extension SwiftUICore.View {
-  @_Concurrency.MainActor @preconcurrency public func readingFrame(coordinateSpace: SwiftUICore.CoordinateSpace = .global, onChange: @escaping (_ frame: CoreFoundation.CGRect) -> Swift.Void) -> some SwiftUICore.View
-  
-}
+
 extension BoldDeskSupportSDK.SDKTheme : Swift.Equatable {}
 extension BoldDeskSupportSDK.SDKTheme : Swift.Hashable {}
-extension BoldDeskSupportSDK.FrameReader : Swift.Sendable {}
