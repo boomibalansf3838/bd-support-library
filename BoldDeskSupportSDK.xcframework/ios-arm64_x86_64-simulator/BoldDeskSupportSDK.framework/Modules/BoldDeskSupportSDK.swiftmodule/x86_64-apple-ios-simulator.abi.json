@@ -668,6 +668,39 @@
           },
           {
             "kind": "Function",
+            "name": "showArticle",
+            "printedName": "showArticle(articleId:articleSlugTitle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18BoldDeskSupportSDK09BDSupportD0V11showArticle9articleId0H9SlugTitleySi_SStFZ",
+            "mangledName": "$s18BoldDeskSupportSDK09BDSupportD0V11showArticle9articleId0H9SlugTitleySi_SStFZ",
+            "moduleName": "BoldDeskSupportSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "enableLogging",
             "printedName": "enableLogging()",
             "children": [
@@ -1514,6 +1547,20 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -1872,6 +1919,13 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BoldDeskSupportSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "BoldDeskSupportSDK"
       },
@@ -2748,14 +2802,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 14708,
+      "offset": 15448,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/BoldDeskSDK\/BolddeskSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 14740,
+      "offset": 15480,
       "length": 5,
       "value": "false"
     },
@@ -13225,6 +13279,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/KnowledgeBase\/HTMLWebView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 539,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/KnowledgeBase\/KnowledgeBaseSearchView.swift",
       "kind": "BooleanLiteral",
       "offset": 87,
@@ -13276,7 +13337,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketList\/TicketListView.swift",
       "kind": "Array",
-      "offset": 18387,
+      "offset": 18695,
       "length": 2,
       "value": "[]"
     },
@@ -13290,14 +13351,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/AppLaunchView.swift",
       "kind": "BooleanLiteral",
-      "offset": 721,
+      "offset": 784,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/AppLaunchView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1365,
+      "offset": 1428,
       "length": 5,
       "value": "false"
     },
@@ -13339,7 +13400,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/HelpCenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 9021,
+      "offset": 9079,
       "length": 2,
       "value": "12"
     },
@@ -13668,84 +13729,84 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "StringLiteral",
-      "offset": 31290,
+      "offset": 31382,
       "length": 15,
       "value": "\"header_bottom\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 44573,
+      "offset": 44665,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 44666,
+      "offset": 44758,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 44992,
+      "offset": 45084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 59020,
+      "offset": 59112,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 59115,
+      "offset": 59207,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 59121,
+      "offset": 59213,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "IntegerLiteral",
-      "offset": 59977,
+      "offset": 60069,
       "length": 10,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 60534,
+      "offset": 60626,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 60634,
+      "offset": 60726,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 61435,
+      "offset": 61527,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/View\/TicketDetailView.swift",
       "kind": "BooleanLiteral",
-      "offset": 62598,
+      "offset": 62690,
       "length": 5,
       "value": "false"
     },
@@ -14089,6 +14150,13 @@
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/ViewModel\/HTMLWebViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 287,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BoldDeskSupportSDK\/BoldDeskSupportSDK\/ViewModel\/HTMLWebViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 356,
       "length": 5,
       "value": "false"
     },
